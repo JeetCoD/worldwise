@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Wadi ad-Dawasir",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2023-10-14T18:32:11.048Z",
+      "notes": "",
+      "position": {
+        "lat": "20.66105614283099",
+        "lng": "44.6545007534216"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Baruth",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-10-14T18:50:16.380Z",
+      "notes": "",
+      "position": {
+        "lat": "52.09120150513583",
+        "lng": "13.558219807538745"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Surendranagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-15T05:03:32.869Z",
+      "notes": "",
+      "position": {
+        "lat": "22.708087585420927",
+        "lng": "71.670790390661"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Markisch Buchholz",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-12-30T15:21:59.379Z",
+      "notes": "ferg",
+      "position": {
+        "lat": "52.11240908504091",
+        "lng": "13.768615722656252"
+      },
+      "id": 98443206
+    }
+  ]
+}
