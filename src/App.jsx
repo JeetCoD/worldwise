@@ -2,7 +2,7 @@ import { Suspense, lazy } from "react";
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 
 import Product from "./pages/Product";
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/Homepage";
 import Pricing from "./pages/Pricing";
 import PageNotFound from "./PageNotFound";
 import AppLayout from "./pages/AppLayout";
